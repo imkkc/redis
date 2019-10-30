@@ -194,3 +194,6 @@ OK
 有关hashes的操作，同样很丰富，需要时，大家可以从这里查询。https://redis.io/commands#hash
 中文地址http://www.redis.cn/topics/data-types-intro.html#hashes
 http://www.redis.cn这个网站没事可以多逛逛，有在线命令实验
+
+关于使用场景，这里有个更贴近最近几年的项目、及系统讲解
+https://github.com/Snailclimb/JavaGuide/blob/master/docs/database/Redis/Redis.md#3list
