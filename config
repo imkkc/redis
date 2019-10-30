@@ -1,5 +1,7 @@
 【教你看懂redis配置 – 简介】
 
+可以在浏览器里对照这个文件看 http://download.redis.io/redis-stable/redis.conf
+
 我们可以在启动redis-server时指定应该加载的配置文件，方法如下：
 
 复制代码代码如下:
